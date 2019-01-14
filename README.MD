@@ -5,8 +5,8 @@
 #System Docelowo będzie posiadał dwie role: administrator i student.
 #
 #Możliwości administratora:
-·         logowanie do systemu,
-·         wyświetlanie listy studentów
+         logowanie do systemu,
+         wyświetlanie listy studentów
 #·         dodawanie/edytowanie/usuwanie konta studenta
 #·         zmiana hasła konta studenta
 #·         dodawanie/edytowanie/usuwanie zajęć
