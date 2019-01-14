@@ -6,56 +6,56 @@
 #
 #Możliwości administratora:
 
-logowanie do systemu
+-logowanie do systemu
 
-wyświetlanie listy studentów
+-wyświetlanie listy studentów
 
-dodawanie/edytowanie/usuwanie konta studenta
+-dodawanie/edytowanie/usuwanie konta studenta
 
-zmiana hasła konta studenta
+-zmiana hasła konta studenta
 
-dodawanie/edytowanie/usuwanie zajęć
+-dodawanie/edytowanie/usuwanie zajęć
 
-wyświetlanie szczegółowego widoku zajęć
+-wyświetlanie szczegółowego widoku zajęć
 
 #Możliwości studenta:
 
-logowanie do systemu
+-logowanie do systemu
 
-wyświetlanie listy wszystkich zajęć
+-wyświetlanie listy wszystkich zajęć
 
-wpisanie się na listę obecności na konkretnych zajęciach
+-wpisanie się na listę obecności na konkretnych zajęciach
 
-edytowanie informacji o sobie
+-edytowanie informacji o sobie
 
-zmiana hasła
+-zmiana hasła
 
 #Wymagania ogólne:
 
-przy starcie aplikacji tworzy się domyślne konto administratora (jeśli nie jest obecne w bazie)
+-przy starcie aplikacji tworzy się domyślne konto administratora (jeśli nie jest obecne w bazie)
 
-nie można usunąć zajęć, które się już odbyły
+-nie można usunąć zajęć, które się już odbyły
 
 #zajęcia posiadają następujące informacje:
 
-tytuł
+-tytuł
 
-opis
+-opis
 
-lista obecności
+-lista obecności
 
-informacje o prowadzącym
+-informacje o prowadzącym
 
 #konto studenta posiada następujące informacje:
 
-imię i nazwisko
+-imię i nazwisko
 
-email
+-email
 
-hasło
+-hasło
 
-rok i kierunek studiów
+-rok i kierunek studiów
 
-nr indeksu
+-nr indeksu
 
 student jako login wykorzystuje adres email lub nr indeksu.
